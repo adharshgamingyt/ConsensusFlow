@@ -1,6 +1,6 @@
 {
   "name": "consensusflow",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "devDependencies": {
     "@workspace/eslint-config": "workspace:*",
     "@workspace/mobile-package": "workspace:*",
